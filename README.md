@@ -1,6 +1,6 @@
 ## ⚖️ Licensing
 
-I use a tiered licensing system to balance collaboration, sharing, and protection. You will find one of the following licenses in each of my repositories:
+This repository (profile assets and license templates) is released under the **[02Alexis Open License](./LICENSE.md)**. For my other projects, I use a tiered system to balance collaboration and protection:
 
 * **[02Alexis Open License](./licenses/open-license.md)**: Most permissive. You can do anything (use, modify, sell) as long as you keep the copyright notice.
 * **[02Alexis Community License](./licenses/community-license.md)**: Collaborative but fair. You can fork and redistribute publicly, but no commercial use is allowed.
